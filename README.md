@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @OyaisKhan
 - 👀 I’m interested in Ai & Ml
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ML projects
+- 🌱 I’m currently learning New Technologies to boost my Skills🔥
+- 💞️ I’m looking to collaborate on ML projects.
+- 🔭 If you have any suggestion or require help DM me !!
 - 📫 How to reach me https://www.linkedin.com/in/oyais-khan-6684a6209/
 
 <!---
